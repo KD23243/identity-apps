@@ -15,5 +15,8 @@
     "dependencies": {
         "@wso2is/theme": "^2.6.10",
         "rimraf": "^3.0.2"
+    },
+    "devDependencies": {
+        "@changesets/cli": "^2.27.11"
     }
 }
